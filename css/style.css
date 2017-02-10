@@ -72,11 +72,13 @@ section .parallax-container{
 
 #slogan{
 
-    margin-top: 300px;
+    margin-top: 170px;
 
 }
 #slogantext{
     font-weight: 400;
+    font-size: 3rem;
+    
 }
 
 #social{
