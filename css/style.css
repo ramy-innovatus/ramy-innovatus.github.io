@@ -18,6 +18,10 @@
   direction: ltr;
 
 }*/
+html, body{
+width:100%;
+overflow-x:hidden;
+}
 
 #address{
     display: inline;
