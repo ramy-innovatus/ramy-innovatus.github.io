@@ -76,12 +76,19 @@ section .parallax-container{
 
 #slogan{
 
-    margin-top: 170px;
+    margin-top: 100px;
 
 }
 #slogantext{
     font-weight: 400;
-    font-size: 3rem;
+    font-size: 3.5rem;
+	font-weight: 400;
+
+	color: #063005cc !important;
+
+	line-height: 2.5;
+
+	background: white;
     
 }
 
